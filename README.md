@@ -1,1 +1,1 @@
-# osnovy_jazika_Python
+# Python
